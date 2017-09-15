@@ -31,8 +31,6 @@ gem 'rails_12factor', group: :production
 gem 'devise', github: 'plataformatec/devise', ref: '83002017'
 
 gem 'activeadmin', github: 'activeadmin'
-gem 'active_admin_theme'
-gem 'active_admin_flat_skin'
 
 gem "font-awesome-rails"
 # Use Redis adapter to run Action Cable in production
